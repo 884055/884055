@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Matteo Grazioso
-👀 I’m a student of the Bachelor's Degree Programme in Informatics <br>
+👀 I’m a student of the Master Degree in Computer Science with major in Artificial Intelligence <br>
 👨‍🎓 Ca' Foscari University of Venice, Italy <br>
 ®️ Account reserved for University Purposes
 
